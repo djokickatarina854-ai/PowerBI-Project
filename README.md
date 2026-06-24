@@ -24,9 +24,13 @@ min production 4.17k
 
 max production 17.02k
 
+Latest production 17.02k
+
 Average YoY% 4.93
 
 CAGR% 2.16
+
+Growth since 1975 191.41%
 
 
 
